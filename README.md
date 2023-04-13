@@ -15,7 +15,7 @@ Christopher J Metzler
     - Includes Data cleaning/visualization/exploration on raw data
     
 # Resume Projects
-### Not public by professor request
+### *Not public by professor request*
 
 1. Discrete Time Event Simulation
     - Programming Language: Python
