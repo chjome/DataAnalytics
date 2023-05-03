@@ -28,3 +28,6 @@ Christopher J Metzler
 
 ## Other School Projects
 
+1. Certificate Authority Builder
+    - Programming Language: Python
+    - Using VirtualBox environment to build directories and package certificate authority bundle.
