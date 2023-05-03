@@ -3,7 +3,7 @@ Christopher J Metzler
 
 # Resume Projects
 
-# Data Analytics
+## Data Analytics
 
 1. Title 1 Texas school district report
     - Utilized sklearn, matplotlib, and seaborn libraries within python
@@ -12,8 +12,8 @@ Christopher J Metzler
        and decision tree models to analyze the effects of poverty levels.
     - Data pulled from Common Core Data (CCD)
     
-# Other Resume Projects
-### *Not public by professor request*
+## Other Resume Projects
+#### *Not public by professor request*
 
 1. Discrete Time Event Simulation
     - Programming Language: Python
