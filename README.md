@@ -12,7 +12,7 @@ Christopher J Metzler
        and decision tree models to analyze the effects of poverty levels.
     - Data pulled from Common Core Data (CCD)
     
-## Other Resume Projects
+## Other Resume Projects (Available by request)
 #### *Not public by professor request*
 
 1. Discrete Time Event Simulation
