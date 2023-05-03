@@ -31,3 +31,9 @@ Christopher J Metzler
 1. Certificate Authority Builder
     - Programming Language: Python
     - Using VirtualBox environment to build directories and package certificate authority bundle.
+
+2. ChatBox GUI
+    - Programming Language: Java
+    - All files for the project are not posted by proffessor request, this is just the graphical user interface portion.
+    - The full program allows the creation of multiple chatboxes with unique usernames. Each chatbox has access to one chatroom that logs
+      the messages, new chatbox users and leaving chatbox users.
