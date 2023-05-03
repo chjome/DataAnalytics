@@ -1,6 +1,8 @@
 # Project Portfolio
 Christopher J Metzler
 
+# Resume Projects
+
 # Data Analytics
 
 1. Title 1 Texas school district report
@@ -10,7 +12,7 @@ Christopher J Metzler
        and decision tree models to analyze the effects of poverty levels.
     - Data pulled from Common Core Data (CCD)
     
-# Resume Projects
+# Other Resume Projects
 ### *Not public by professor request*
 
 1. Discrete Time Event Simulation
@@ -23,3 +25,6 @@ Christopher J Metzler
     - Programming Language: C with CUDA
     - Dividing n observations into x clusters using k-means. Uses atomic operations to update array data in parallel. 
       Utilizing CUDA multiple GPUs where used in the UT supercomputer cluster to time and run the program.
+
+# Other School Projects
+
