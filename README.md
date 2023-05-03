@@ -26,5 +26,5 @@ Christopher J Metzler
     - Dividing n observations into x clusters using k-means. Uses atomic operations to update array data in parallel. 
       Utilizing CUDA multiple GPUs where used in the UT supercomputer cluster to time and run the program.
 
-# Other School Projects
+## Other School Projects
 
