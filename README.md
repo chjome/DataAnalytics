@@ -11,6 +11,7 @@ Christopher J Metzler
       visualization of Texas school districts data. Utilized linear regression
        and decision tree models to analyze the effects of poverty levels.
     - Data pulled from Common Core Data (CCD)
+    - Relevent Files: CCD_Final.ipynb
     
 ## Other Resume Projects (Available by request)
 #### *Not public by professor request*
@@ -31,20 +32,24 @@ Christopher J Metzler
 1. Certificate Authority Builder
     - Programming Language: Python
     - Using VirtualBox environment to build directories and package certificate authority bundle.
+    - Relevent Files: CABuilder.py
 
 2. ChatBox GUI
     - Programming Language: Java
     - All files for the project are not posted by proffessor request, this is just the graphical user interface portion.
     - The full program allows the creation of multiple chatboxes with unique usernames. Each chatbox has access to one chatroom that logs
       the messages, new chatbox users and leaving chatbox users.
+    - Relevent Files: ChatBox.java
       
 3. Simple ASCII Turn Based Adventure
     - Programming Language: C++
     - Simple turn based game that tracks player and enemy positions on a grid and simulated a battle on collision.
+    - Relevent Files: adv.cpp
 
 4. Taskflo
     - Programming Language: Java
     - Developed a web application called "TaskFlo" using Java with PostgreSQL and Spring Boot.
     - Designed and implemented a user-friendly interface for tracking user-created tasks.
     - Utilized database management techniques to store and retrieve task data efficiently.
+    - Relevent Files: taskflo folder
 
